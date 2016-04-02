@@ -1,0 +1,33 @@
+{
+  "name": "bdd_test",
+  "version": "1.0.0",
+  "description": "BDD mocha node testable_js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "mocha test"
+  },
+  "author": "xiongxiong109",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "superagent": "^1.8.3"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "superagent": "^1.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiongxiong109/test_mocha.git"
+  },
+  "keywords": [
+    "mocha",
+    "node",
+    "bdd"
+  ],
+  "bugs": {
+    "url": "https://github.com/xiongxiong109/test_mocha/issues"
+  },
+  "homepage": "https://github.com/xiongxiong109/test_mocha#readme"
+}
